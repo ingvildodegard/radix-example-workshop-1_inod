@@ -4,10 +4,9 @@ Purpose - a simple two module app. The public front-end (www) will respond to re
 
 ## Content
 
-* ```echo``` contains the echo module
-* ```www``` contains the www front-end
-* ``` docs``` contains the workshop script ([link](./docs/workshop.md))
-
+- `echo` contains the echo module
+- `www` contains the www front-end
+- `docs` contains the workshop script ([link](./docs/workshop.md))
 
 ![Conseptual diagram](./docs/smalldiagram.png)
-.
+..
